@@ -16,7 +16,7 @@
  "modified": "2021-10-28 15:35:40.110734",
  "modified_by": "Administrator",
  "module": "Erpnext Print Formats",
- "name": "Tax Invoice 8848",
+ "name": "Tax Invoice mits",
  "owner": "mani.v@ascratech.in",
  "print_format_builder": 0,
  "print_format_type": "Jinja",
